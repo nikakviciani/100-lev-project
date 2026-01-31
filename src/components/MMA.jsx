@@ -9,7 +9,7 @@ function MMA() {
       <h1>be stronger with GOA MMA</h1>
       <h1>and better version of our self</h1>
       <img
-        src='src\assets\image copy 2.png'
+        src='https://scontent.ftbs9-2.fna.fbcdn.net/v/t39.30808-6/615476253_122148262064731474_3874803255331022913_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=qggQcHQ0qyAQ7kNvwGrQwac&_nc_oc=Adl-XlACv37nTc5SxpYX2ZzcnnmVW3Tj_IV_8L70QxpUJMHYUVq45PnO5zJiMV2ygWM&_nc_zt=23&_nc_ht=scontent.ftbs9-2.fna&_nc_gid=dI8_mEhsmaIR0errr-bo3A&oh=00_AfseGHeullL1Im3OSARsmda85XZgLpy68keyLRDUBVkceg&oe=6983E86A'
         alt="GOA MMA"
       />
       <p>

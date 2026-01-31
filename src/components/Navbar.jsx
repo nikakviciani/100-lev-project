@@ -14,7 +14,7 @@ export default function Navbar({ isLoggedIn, setPage, handleLogout }) {
       {/* LOGO */}
       <div className="nav-left" onClick={() => goTo("home")}>
         <img
-          src="src\assets\image.png"
+          src="https://avatars.mds.yandex.net/i?id=e640c6ff08391daed7c15080a22ce33a8431f061-4747135-images-thumbs&n=13"
           alt="Goal-Oriented Academy"
           className="logo"
         />

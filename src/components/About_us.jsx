@@ -4,7 +4,7 @@ function AboutUs() {
   return (
     <div className="content">
       <h1>About GOA</h1>
-      <img src="src\assets\image copy 3.png" alt="" />
+      <img src="https://scontent.ftbs9-2.fna.fbcdn.net/v/t39.30808-6/484559898_2364092387282005_8949471345108892829_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NyARIlJnenAQ7kNvwHctdJ5&_nc_oc=AdmSJfxqimzMkc2ZGkb-7IUDGyLWDrHbScCISIfrQzVgjMq-Je_1pk3JBkemeYc6x6U&_nc_zt=23&_nc_ht=scontent.ftbs9-2.fna&_nc_gid=6Ju3t2B5Np8gh002v__Teg&oh=00_AfvF2u56srMZ4A40LxVouRKYfhbyrCzINRlGpPc3kIdEXw&oe=6983E46A" alt="" />
       <p>
         Goal-Oriented Academy (GOA) is a modern educational academy focused primarily on programming, 
         with additional courses in game development, design, 3D modeling, and AI learning. 
