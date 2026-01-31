@@ -1,10 +1,17 @@
+// File: MMA.jsx
 import React from "react";
+import "./mma.css"; // External CSS ფაილი
 
 function MMA() {
   return (
-    <div className="content">
+    <div className="mma-mode">
       <h1>GOA MMA Training</h1>
-
+      <h1>be stronger with GOA MMA</h1>
+      <h1>and better version of our self</h1>
+      <img
+        src='src\assets\image copy 2.png'
+        alt="GOA MMA"
+      />
       <p>
         GOA MMA is a premier Mixed Martial Arts academy founded by Goal-Oriented Academy. 
         Our mission is to help every student grow physically, mentally, and strategically. 
@@ -12,7 +19,8 @@ function MMA() {
         and self-defense, all under the guidance of professional trainers. 
         We don’t just teach fighting – we train leaders who embrace challenges and unlock their full potential. 
         Push your limits, build strength, and become your best self at GOA MMA!
-      </p>          <br />
+      </p>
+      <br />
       <p>
         GOA MMA არის MMA-ს პრემიერული აკადემია, რომელიც დაარსა Goal-Oriented Academy-მ. 
         ჩვენი მიზანია თითოეულ სტუდენტს ფიზიკურად, გონებრივად და სტრატეგიულად განვითარებაში დაეხმაროს. 
@@ -21,13 +29,13 @@ function MMA() {
         ჩვენ არ ვასწავლით მხოლოდ ბრძოლას – ვამზადებთ ლიდერებს, რომლებიც წინაშე გამოწვევებს დგანან და აღმოაჩენენ სრულ პოტენციალს. 
         გამოწვიე საკუთარი შესაძლებლობები, გამაგრდი და გახდი შენი საუკეთესო ვერსია GOA MMA-ში!
       </p>
-          <br />
+      <br />
       <p>
         Whether you are a beginner or an experienced fighter, our programs are tailored to help you 
         achieve your personal goals, improve fitness, and gain confidence. 
         Join GOA MMA today and start your journey toward mastery, discipline, and self-improvement.
       </p>
-      <p>          <br />
+      <p>
         მიუხედავად იმისა, რომ ახალი ხარ თუ უკვე გამოცდილ მებრძოლი, ჩვენი პროგრამები შენს პირად მიზნებს დაემთხვევა, 
         დაგეხმარება ფიზიკური ფორმის გაუმჯობესებაში და თავდაჯერებულობის გაზრდაში. 
         შეუერთდი GOA MMA-ს დღეს და დაიწყე შენი გზა მცოდნეობაში, დისციპლინაში და თვითგანვითარებაში.

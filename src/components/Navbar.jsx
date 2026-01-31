@@ -14,10 +14,11 @@ export default function Navbar({ isLoggedIn, setPage, handleLogout }) {
       {/* LOGO */}
       <div className="nav-left" onClick={() => goTo("home")}>
         <img
-          src="https://yt3.googleusercontent.com/yaO29uydEx0PfxuToT7uh_fP1cZGw-mcNrNZcCKTjDBTNvzn_5_gclYVAhBn5XFa-JgMKm6WwUY=s900-c-k-c0x00ffffff-no-rj"
+          src="src\assets\image.png"
           alt="Goal-Oriented Academy"
           className="logo"
         />
+        
       </div>
 
       {/* HAMBURGER */}
@@ -32,6 +33,7 @@ export default function Navbar({ isLoggedIn, setPage, handleLogout }) {
         <a onClick={() => goTo("about")} className="nav-link">About</a>
         <a onClick={() => goTo("mma")} className="nav-link">MMA</a>
         <a onClick={() => goTo("courses")} className="nav-link">Courses</a>
+        
 
         {isLoggedIn ? (
           <a className="logout-btn" onClick={handleLogout}>

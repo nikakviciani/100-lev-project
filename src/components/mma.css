@@ -1,0 +1,24 @@
+/* =====================
+   MMA MODE
+===================== */
+body.mma-mode {
+  --primary: #dc2626; /* წითელი */
+  --accent: #ffffff;  /* მაგალითად, ტექსტი თეთრი */
+}
+
+/* Navbar-საც ჩაეტარება წითელი */
+body.mma-mode .navbar {
+  background: var(--primary);
+}
+
+body.mma-mode .nav-right a,
+body.mma-mode .nav-right button {
+  color: var(--accent);
+}
+
+/* Footer */
+body.mma-mode footer {
+  background: var(--primary);
+  color: var(--accent);
+}
+

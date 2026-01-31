@@ -112,10 +112,7 @@ main {
   background: var(--secondary);
   padding: 20px;
   border-radius: var(--radius);
-
-  /* ✅ კონტური */
   border: 2px solid var(--accent);
-
   box-shadow: 0 4px 12px rgba(0,0,0,0.5);
   transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
 }
@@ -228,6 +225,28 @@ footer {
 }
 
 /* =====================
+   MMA MODE
+===================== */
+.mma-mode {
+  color: red;
+}
+
+.mma-mode .navbar,
+.mma-mode .navbar a {
+  color: red;
+}
+
+.mma-mode footer {
+  color: red;
+}
+
+.mma-mode h1,
+.mma-mode h2,
+.mma-mode p {
+  color: red;
+}
+
+/* =====================
    RESPONSIVE
 ===================== */
 @media (max-width: 768px) {
@@ -259,4 +278,13 @@ footer {
   main {
     padding: 10px;
   }
+}
+a{
+  color: black
+}
+img {
+  max-width: 100%;
+  border-radius: 12px;
+  margin-top: 20px;
+  
 }
