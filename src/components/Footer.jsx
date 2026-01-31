@@ -11,6 +11,7 @@ export default function Footer() {
         <p style={nn}>Phone: +995 598 59 89 17</p>
         <p style={nn}>Address:georgia tbilisi Delisi Coworking Hub</p>
         <a href="https://www.facebook.com/groups/1133392237455746/">Goal-Oriented Academy • GOA (ჯგუფი)</a>
+        <a href="https://www.facebook.com/nika1keshelava">GOA MMA</a>
       </div>
       <p style={nn}>2026 Goal-Oriented-Academy</p>
     </footer>
